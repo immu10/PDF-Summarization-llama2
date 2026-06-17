@@ -1,6 +1,6 @@
 > This was a college course project (NLP).
 
-# DOCUMENT SUMMARIZATION APP WITH MISTRAL
+# DOCUMENT SUMMARIZATION
 
 ## Screenshot
 
