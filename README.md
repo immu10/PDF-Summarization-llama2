@@ -1,6 +1,6 @@
 > This was a college course project (NLP).
 
-# DOCUMENT SUMMARIZATION APP WITH MISTRAL
+# DOCUMENT SUMMARIZATION
 
 ## Overview
 A Streamlit app that summarizes documents using a locally running **Mistral** model served through the **Ollama** backend. You upload a PDF, DOCX, or TXT file, optionally steer the output with a custom prompt, and choose how condensed the summary should be. Alongside summarization, the app can explain words or sentences in plain language, look up dictionary definitions, and read text aloud via text-to-speech.
